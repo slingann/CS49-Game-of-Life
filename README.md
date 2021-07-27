@@ -1,1 +1,10 @@
 # Conway's Game of Life (CS49)
+
+### 👩🏽‍💻 About the Project
+This is my recreation of John Conway's Game of Life. I used conditional statements, classes, and various functions to create a working Game of Life that begins with a randomly generated grid of "alive" cells. 
+
+### 🛠 Made With
+- Replit (IDE)
+- JavaScript (p5.js) - language
+
+### 📃 [Project Instructions](https://github.com/extrajordanary/p5js-game-of-life)
