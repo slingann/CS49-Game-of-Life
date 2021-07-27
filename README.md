@@ -1,1 +1,1 @@
-# CS49-Game-of-Life
+# Conway's Game of Life (CS49)
