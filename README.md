@@ -5,6 +5,6 @@ This is my recreation of John Conway's Game of Life. I used conditional statemen
 
 ### 🛠 Made With
 - Replit (IDE)
-- JavaScript (p5.js) - language
+- JavaScript (p5.js)
 
 ### 📃 [Project Instructions](https://github.com/extrajordanary/p5js-game-of-life)
